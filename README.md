@@ -1,4 +1,4 @@
-<img src=”https://storyset.com/illustration/static-assets/amico#165CF7FF&hide=&hide=false”>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
 ### Hi there 👋
 
 <!--
