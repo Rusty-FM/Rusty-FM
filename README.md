@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <h1 align="center">
+<h1 align="center">
     <img src="hero_img.png" alt="" width="550px">
 </h1>
 <h1 align="center">Hi 👋, I'm Firman Maulana</h1>
@@ -67,6 +59,3 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
     </a>
 </p>
-
-</body>
-</html>
