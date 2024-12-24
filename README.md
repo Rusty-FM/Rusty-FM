@@ -1,4 +1,4 @@
-<h1 align="center"><img src="hero-img.png" alt=""  width="550px"></p>
+<h1 align="center"><img src="hero_img.png" alt=""  width="550px"></p>
 <h1 align="center">Hi 👋, I'm Firman Maulana</h1>
 <h3 align="center">Frontend Web Developer From West Java</h3>
 
