@@ -9,6 +9,9 @@
 <a href="https://instagram.com/firman_rusty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="firman_rusty" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@rusty-fm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@rusty-fm" height="30" width="40" /></a>
 <a href="https://discord.gg/firman0590" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="firman0590" height="30" width="40" /></a>
+<a href="https://wa.me/0895330242438" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
